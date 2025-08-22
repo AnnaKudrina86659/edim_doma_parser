@@ -30,7 +30,7 @@ edimdoma-parser/
 - config.py            # Конфигурация
 - requirements.txt     # Зависимости
 - README.md           # Документация
-- utils/              # Вспомогательные модули
+   Вспомогательные модули
     - parser.py       # Функции парсинга
     - gigachat.py     # GigaChat API
 
